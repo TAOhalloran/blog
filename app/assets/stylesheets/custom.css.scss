@@ -10,7 +10,7 @@ float: left;
 
 font-size: 1.7em;
 
-color: #fff;
+color: "black";
 
 text-transform: uppercase;
 
@@ -36,11 +36,11 @@ text-align: center;
 
 .jumbotron {
 
-background-image: asset-url('new_cover_page.png');
+
 
 background-size: cover;
 
-height: 550px;
+height: 290px;
 
 }
 
@@ -49,6 +49,8 @@ height: 550px;
 color: #fff;
 
 text-align: center;
+
+margin-top: 50px;
 
 margin-bottom: 30px;
 
